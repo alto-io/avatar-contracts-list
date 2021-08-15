@@ -12,6 +12,12 @@
                     },
                     "BAYC": {
                         "address": "0xBC4CA0EdA7647A8aB7C2061c2E118A18a936f13D"
+                    },
+                    "Cryptokitties": {
+                        "address": "0x06012c8cf97bead5deae237070f9587f8e7a266d"
+                    },
+                    "AxieInfinity": {
+                        "address": "0xf5b0a3efb8e8e4c201e2a935f110eaaf3ffecb8d"
                     }
                 }
             }
