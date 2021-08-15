@@ -6,3 +6,7 @@ Community-curated JSON list of avatar NFT projects, created for [Game Legos](htt
 load the JSON file into your app via the raw URL:
 
 https://raw.githubusercontent.com/alto-io/avatar-contracts-list/main/avatar-contracts.json
+
+## How To Add Other Contracts
+
+Checkout the repository and do a pull request
